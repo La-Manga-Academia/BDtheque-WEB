@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'BDtheque-Lannion'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_227EE9C8E0944E7E8639D50B03A43BBE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B6F951D55614AF496C4BC6A4468A5EC }}
           package: .
